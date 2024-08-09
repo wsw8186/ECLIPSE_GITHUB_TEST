@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- 바꿧다
+ HELLOWORD
 </body>
 </html>
